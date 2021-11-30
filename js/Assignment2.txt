@@ -1,0 +1,24 @@
+valid variable & invalid variable name အောက်ပါ variabls name မှရွေးချယ်ပြပါ။
+
+
+1. helloMyanmar
+2. 43dd
+3. SyewW
+4. 00e3
+5. eee eee
+6. number
+7. sense
+8. pro_sense
+9. var
+10. boolean
+11. string
+12. strNum
+13. 22changes
+13. 43pro
+14. first name
+15. $myanmar
+16. _33
+17. de2
+18. 32EE
+19. 3#@
+20. 3c2c@9
