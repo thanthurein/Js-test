@@ -92,3 +92,41 @@ console.log(num5); //15
 num5 -= 10;
 console.log(num5)
 
+
+/**
+ * Comparison Operator
+ *  > , < , >= , <=, !=
+ */
+
+var num6 = 10;
+var num7 = 15;
+var result = num7 <= num6;
+console.log(result)
+
+var a = 10;
+var b = "10";
+
+console.log(a != b);
+
+
+/**
+ * Decision Statement
+ * 
+ * if ... else
+ * if(){
+ * 
+ * } - Parenthesis
+ */
+
+var x = 10;
+var y = 40;
+var problem = x + y - 100 / 45;
+
+if(x > problem)
+{
+    console.log("This answer is correct");
+}else{
+    console.log("This answer is wrong!")
+}
+
+
